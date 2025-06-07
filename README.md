@@ -108,7 +108,7 @@ Delete an item by ID.
 The API documentation is available through **Swagger UI**. To access it:
 
 1. Start the application.
-2. Open a browser and go to `http://localhost:3000/api-docs`.
+2. Open a browser and go to `http://localhost:7205/api-docs`.
 
 This will open an interactive interface to test all the available endpoints.
 
